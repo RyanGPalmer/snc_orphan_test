@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="u_orphan" label="Orphan Child" max_length="40" name="x_snc_orphan_orphan_child" type="collection"/>
+</database>

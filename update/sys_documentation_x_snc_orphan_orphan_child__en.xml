@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Orphan Child" language="en" table="x_snc_orphan_orphan_child">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Orphan Child</label>
+            <language>en</language>
+            <name>x_snc_orphan_orphan_child</name>
+            <plural>Orphan Childs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>ryan</sys_created_by>
+            <sys_created_on>2018-08-02 16:37:39</sys_created_on>
+            <sys_id>e13860bbdbab9700beecf1771d961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Orphan Child</sys_name>
+            <sys_package display_value="Orphan" source="x_snc_orphan">c7e7687bdbab9700beecf1771d96191d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Orphan">c7e7687bdbab9700beecf1771d96191d</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_orphan_orphan_child__en</sys_update_name>
+            <sys_updated_by>ryan</sys_updated_by>
+            <sys_updated_on>2018-08-02 16:37:39</sys_updated_on>
+            <u_test/>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
